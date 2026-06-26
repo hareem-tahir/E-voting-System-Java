@@ -1,5 +1,5 @@
-# E-voting-System-Java
-##Features
+# **E-voting-System-Java**
+##**Features**
 - Voter registration with CNIC validation  
 - Secure login system (Admin & Voter)  
 - Admin panel for candidate management  
@@ -12,7 +12,7 @@
 
 ---
 
-## OOP Concepts Used
+## **OOP Concepts Used**
 - Encapsulation (private fields + getters/setters)  
 - Inheritance (Person → Voter/Admin)  
 - Polymorphism (login method overriding)  
@@ -21,7 +21,7 @@
 - Modular class structure  
 
 ---
-##Project Structure
+##**Project Structure**
 ```
 src/
 ├── model/
@@ -45,7 +45,7 @@ src/
 ---
 
 
-##Data Storage
+##**Data Storage**
 - Candidates.txt → Candidate records  
 - Voters.txt → Voter records  
 - Votes.txt → Vote records  
